@@ -1,8 +1,8 @@
 {
-    "name":        "yohang/finite",
+    "name":        "rocket-internet-berlin/finite",
     "description": "A simple PHP5.3+ Finite State Machine",
     "keywords":    ["statemachine"],
-    "homepage":    "https://github.com/yohang/Finite",
+    "homepage":    "https://github.com/rocket-internet-berlin/Finite",
     "type":        "library",
     "license":     "MIT",
     "authors": [
